@@ -1,0 +1,21 @@
+type;ID;Title;Given name 1;Family name 1;Affiliation 1;Country 1;Email 1;Given name 2;Family name 2;Affiliation 2;Country 2;Email 2;Given name 3;Family name 3;Affiliation 3;Country 3;Email 3;Given name 4;Family name 4;Affiliation 4;Country 4;Email 4;Given name 5;Family name 5;Affiliation 5;Country 5;Email 5;Given name 6;Family name 6;Affiliation 6;Country 6;Email 6;Given name 7;Family name 7;Affiliation 7;Country 7;Email 7;Given name 8;Family name 8;Affiliation 8;Country 8;Email 8;Given name 9;Family name 9;Affiliation 9;Country 9;Email 9;Given name 10;Family name 10;Affiliation 10;Country 10;Email 10;Abstract
+full;1;Defeasibility in Answer Set Programs via Argumentation Theories;Hui;Wan;;;;Michael;Kifer;;;;Benjamin;Grosof;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;2;Extending Paraconsistent SROIQ;Frederick;Maier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;3;Inconsistency-tolerant Semantics for Description Logics;Domenico;Lembo;;;;Maurizio;Lenzerini;;;;Riccardo;Rosati;;;;Marco;Ruzzi;;;;Domenico;Fabio Savo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;4;A Rule-Based Language for Complex Event Processing and Reasoning;Darko;Anicic;;;;Paul;Fodor;;;;Sebastian;Rudolph;;;;Roland;Stuehmer;;;;Nenad;Stojanovic;;;;Rudi;Studer;;;;;;;;;;;;;;;;;;;;;;;;
+full;5;Analyzing the AIR Language:  Semantic Web (Production) Rules Language;Ankesh;Khandelwal;;;;Jie;Bao;;;;Lalana;Kagal;;;;Ian;Jacobi;;;;Li;Ding;;;;James;Hendler;;;;;;;;;;;;;;;;;;;;;;;;
+full;6;On the Semantic Relationship between Datalog and Description Logics;Markus;Krötzsch;;;;Sebastian;Rudolph;;;;Peter;Schmitt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;7;Redundancy Elimination on RDF Graphs in the Presence of Rules, Constraints, and Queries;Reinhard;Pichler;;;;Axel;Polleres;;;;Sebastian;Skritek;;;;Stefan;Woltran;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;8;Usability of a Visual Language for DL Concept Descriptions;Fernando;Naufel do Amaral;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;9;Query-Based Access Control for Ontologies;Martin;Knechtel;;;;Heiner;Stuckenschmidt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+phd;1;On the Termination of the Chase Algorithm;Michael;Meier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+position-poster;1;A Step Toward Tight Integration of Fuzzy Ontological Reasoning with Forward Rules;Stefano;Bragaglia;;;;Davide;Sottara;;;;Federico;Chesani;;;;Paola;Mello;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+position-poster;2;A RESTful SWRL Rule Editor;Carsten;Keßler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+position-poster;3;Composition of Semantic Web Services in a Constructive Description Logic;Loris;Bozzato;;;;Mauro;Ferrari;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+position-poster;4;A rule-based system for end-user e-mail annotations;Giacomo;Fiumara;;;;Massimo;Marchi;;;;Rosamaria;Pagano;;;;Alessandro;Provetti;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+short;1;Learning to Rank Individuals in Description Logics Using Kernel Perceptrons;Nicola;Fanizzi;;;;Claudia;d'Amato;;;;Floriana;Esposito;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+short;2;Embeddings of Simple Modular Extended RDF;Carlos;Viegas Damásio;;;;Anastasia;Analyti;;;;Grigoris;Antoniou;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+short;3;A Probabilistic Abduction Engine for Media Interpretation based on Ontologies;Oliver;Gries;;;;Ralf;Möller;;;;Anahita;Nafissi;;;;Maurice;Rosenfeld;;;;Kamil;Sokolski;;;;Michael;Wessel;;;;;;;;;;;;;;;;;;;;;;;;
+short;4;Kwilt: A Semantic Patchwork for Flexible Access to Heterogeneous Knowledge;Klara;Weiand;;;;Steffen;Hausmann;;;;Tim;Furche;;;;François;Bry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+short;5;A Rule-Based Approach to XML Processing and Web Reasoning;Jorge;Coelho;;;;Besik;Dundua;;;;Mário;Florido;;;;Temur;Kutsia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+short;6;Secrecy-preserving Query Answering for EL;Jia;Tao;;;;Giora;Slutzki;;;;Vasant;Honavar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,10 @@
+ID;Title;Given name 1;Family name 1;Affiliation 1;Country 1;Email 1;Given name 2;Family name 2;Affiliation 2;Country 2;Email 2;Given name 3;Family name 3;Affiliation 3;Country 3;Email 3;Given name 4;Family name 4;Affiliation 4;Country 4;Email 4;Given name 5;Family name 5;Affiliation 5;Country 5;Email 5;Given name 6;Family name 6;Affiliation 6;Country 6;Email 6;Given name 7;Family name 7;Affiliation 7;Country 7;Email 7;Given name 8;Family name 8;Affiliation 8;Country 8;Email 8;Given name 9;Family name 9;Affiliation 9;Country 9;Email 9;Given name 10;Family name 10;Affiliation 10;Country 10;Email 10;Abstract
+1;Defeasibility in Answer Set Programs via Argumentation Theories;Hui;Wan;;;;Michael;Kifer;;;;Benjamin;Grosof;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2;Extending Paraconsistent SROIQ;Frederick;Maier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+3;Inconsistency-tolerant Semantics for Description Logics;Domenico;Lembo;;;;Maurizio;Lenzerini;;;;Riccardo;Rosati;;;;Marco;Ruzzi;;;;Domenico;Fabio Savo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+4;A Rule-Based Language for Complex Event Processing and Reasoning;Darko;Anicic;;;;Paul;Fodor;;;;Sebastian;Rudolph;;;;Roland;Stuehmer;;;;Nenad;Stojanovic;;;;Rudi;Studer;;;;;;;;;;;;;;;;;;;;;;;;
+5;Analyzing the AIR Language:  Semantic Web (Production) Rules Language;Ankesh;Khandelwal;;;;Jie;Bao;;;;Lalana;Kagal;;;;Ian;Jacobi;;;;Li;Ding;;;;James;Hendler;;;;;;;;;;;;;;;;;;;;;;;;
+6;On the Semantic Relationship between Datalog and Description Logics;Markus;Krötzsch;;;;Sebastian;Rudolph;;;;Peter;Schmitt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+7;Redundancy Elimination on RDF Graphs in the Presence of Rules, Constraints, and Queries;Reinhard;Pichler;;;;Axel;Polleres;;;;Sebastian;Skritek;;;;Stefan;Woltran;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+8;Usability of a Visual Language for DL Concept Descriptions;Fernando;Naufel do Amaral;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+9;Query-Based Access Control for Ontologies;Martin;Knechtel;;;;Heiner;Stuckenschmidt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

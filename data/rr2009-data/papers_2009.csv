@@ -1,0 +1,16 @@
+ID;Title;Given name 1;Family name 1;Affiliation 1;Country 1;Email 1;Given name 2;Family name 2;Affiliation 2;Country 2;Email 2;Given name 3;Family name 3;Affiliation 3;Country 3;Email 3;Given name 4;Family name 4;Affiliation 4;Country 4;Email 4;Given name 5;Family name 5;Affiliation 5;Country 5;Email 5;Given name 6;Family name 6;Affiliation 6;Country 6;Email 6;Given name 7;Family name 7;Affiliation 7;Country 7;Email 7;Given name 8;Family name 8;Affiliation 8;Country 8;Email 8;Given name 9;Family name 9;Affiliation 9;Country 9;Email 9;Given name 10;Family name 10;Affiliation 10;Country 10;Email 10;Abstract
+1;A Logic Based Approach to the Static Analysis of Production Systems;Martin;Rezk;;;;Jos;de Bruijn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2;The Perfect Match: RPL and RDF Rule Languages;François;Bry;;;;Benedikt;Linse;;;;Tim;Furche;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+3;A Preferential Tableaux Calculus for Circumscriptive ALCO;Stephan;Grimm;;;;Pascal;Hitzler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+4;Distributed Resolution for Expressive Ontology Networks BEST PAPER AWARD;Anne;Schlicht;;;;Heiner;Stuckenschmidt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+5;A Reasoner for Simple Conceptual Logic Programs;Stijn;Heymans;;;;Cristina;Feier;;;;Thomas;Eiter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6;Answer Sets in a Fuzzy Equilibrium Logic;Steven;Schockaert;;;;Jeroen;Janssen;;;;Dirk;Vermeir;;;;Martine;De Cock;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+7;A Formal Theory for Modular ERDF Ontologies;Anastasia;Analyti;;;;Grigoris;Antoniou;;;;Carlos;Viegas Damasio;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+8;An Efficient Method for Computing Alignment Diagnoses;Christian;Meilicke;;;;Heiner;Stuckenschmidt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+9;Paraconsistent reasoning for OWL 2;Yue;Ma;;;;Pascal;Hitzler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+10;Search for More Declarativity - Backward Reasoning for Rule Languages Reconsidered;Simon;Brodt;;;;Francois;Bry;;;;Norbert;Eisinger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+11;Belief Logic Programming with Cyclic Dependencies;Hui;Wan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+12;Scalable Web Reasoning using Logic Programming Techniques;Gergely;Lukácsy;;;;Peter;Szeredi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+13;A Minimal Deductive System for General Fuzzy RDF;Umberto;Straccia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+14;On the ostensibly silent 'W' in OWL 2 RL;Aidan;Hogan;;;;Stefan;Decker;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+15;A Hybrid Architecture for a Preoperative Decision Support System using a Rule Engine and a Reasoner on a Clinical Ontology;Matt;Mouley Bouamrane;;;;Alan;Rector;;;;Martin;Hurrell;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,22 @@
+;ID;Title;Given name 1;Family name 1;Affiliation 1;Country 1;Email 1;Given name 2;Family name 2;Affiliation 2;Country 2;Email 2;Given name 3;Family name 3;Affiliation 3;Country 3;Email 3;Given name 4;Family name 4;Affiliation 4;Country 4;Email 4;Given name 5;Family name 5;Affiliation 5;Country 5;Email 5;Given name 6;Family name 6;Affiliation 6;Country 6;Email 6;Given name 7;Family name 7;Affiliation 7;Country 7;Email 7;Given name 8;Family name 8;Affiliation 8;Country 8;Email 8;Given name 9;Family name 9;Affiliation 9;Country 9;Email 9;Given name 10;Family name 10;Affiliation 10;Country 10;Email 10;Abstract
+full;1;On combining Description Logic ontologies and nonrecursive Datalog rules;Riccardo;Rosati;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;2;Towards Rule-Based Minimization of RDF Graphs under Constraints;Michael;Meier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;3;Reasoning with a Network of Aligned Ontologies;Antoine;Zimmermann;;;;Chan;Le Duc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;4;Lexicographical Inference over Inconsistent DL-based Ontologies;Jianfeng;Du;;;;Guilin;Qi;;;;Yi-Dong;Shen;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;5;Ranking Services using Fuzzy HEX Programs;Stijn;Heymans;;;;Ioan;Toma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;6;Ontology design and reuse with conceptual roles;Jakob;Henriksson;;;;Jeff;Z Pan;;;;Michael;Pradel;;;;Steffen;Zschaler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;7;A Semantic Web Reasoner for Rules, Equations and Constraints;Daniel;Elenius;;;;Grit;Denker;;;;Mark-Oliver;Stehr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;8;Simulation Subsumption or Déjà vu on the Web;François;Bry;;;;Norbert;Eisinger;;;;Tim;Furche;;;;Benedikt;Linse;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;9;Approximate OWL-Reasoning with Screech;Tuvshintur;Tserendorj;;;;Sebastian;Rudolph;;;;Markus;Krötzsch;;;;Pascal;Hitzler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;10;Enhancing a DLP System for Advanced Database Applications;Giorgio;Terracina;;;;Erika;De Francesco;;;;Claudio;Panetta;;;;Nicola;Leone;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;11;A Survey of Revision Approaches in Description Logics;Guilin;Qi;;;;Fangkai;Yang;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+full;12;What Is Approximate Reasoning?;Sebastian;Rudolph;;;;Tuvshintur;Tserendorj;;;;Pascal;Hitzler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+short;1;Markup and Component Interoperability for Active Rules;Oliver;Fritzen;;;;Wolfgang;May;;;;Franz;Schenk;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+short;2;A TRIPLE-oriented Approach for integrating Higher-Order Rules and External Contexts;Andreas;Billig;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+short;3;Paraconsistent Reasoning with Quasi-Classical Semantic in ALC;Xiaowang;Zhang;;;;Zuoquan;Lin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+short;4;On reducing redundancy in mining relational association rules from the Semantic Web;Joanna;Jozefowska;;;;Agnieszka;Lawrynowicz;;;;Tomasz;Lukaszewski;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+poster;1;Fluent calculus based Web service composition;Viorica;Rozina Chifu;;;;Ioan;Salomie;;;;Simona;Manole;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+poster;2;Vague SWRL: A Fuzzy Extension of SWRL;Xing;Wang;;;;Z;M Ma;;;;Li;Yan;;;;Xiangfu;Meng;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+poster;3;Alternative Strategies for Contextual Reasoning with Conflicts in Ambient Computing;Antonis;Bikakis;;;;Grigoris;Antoniou;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+poster;4;Taming Existence in RDF Querying;François;Bry;;;;Tim;Furche;;;;Clemens;Ley;;;;Benedikt;Linse;;;;Bruno;Marnette;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+poster;5;Tableau Algorithm for Possibilistic Description Logic ALC;Guilin;Qi;;;;Jeff;Z Pan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
