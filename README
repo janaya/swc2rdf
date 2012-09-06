@@ -1,0 +1,15 @@
+swc2rdf is a collection of scripts to convert the HTML data from Semantic Web conferences web sites into RDF.
+
+These scripts has been created specifically for the RR conferences.
+
+The process followed to create the .rdf files has been:
+
+1. Create .txt files with from the RR web sites by copying and pasting the content and doing some manual modifications.
+
+2. Use the scripts in utils/swc_txt2csv (you probably need to also modify this scripts) to convert the .txt to .csv. You should create one .csv file for each type of data in {chairs, papers, posters, short papers, invited talks, etc.)
+
+3. Once you have the .csv files, use the swc2rdf/swc2rdf.py script to convert them to .rdf.
+This script queries both DBLP and data.semanticweb.org SPARQL servers to extract additional data as affiliations and organizations.
+
+To don't overload DBLP server with many queries, you can use utils/xmldumps2rdf.sh script that will download the DBLP .xml dump files and import them in a local triplestore (4store in this case). Then change the configuration swc2rdf/conf.py to use this triplestore.
+
